@@ -10,5 +10,6 @@ public class Car {
         this.brand = brand;
         System.out.println(this.brand);
         System.out.println(this.brand);
+        System.out.println(this.brand);
     }
 }
