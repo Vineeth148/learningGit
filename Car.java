@@ -9,5 +9,6 @@ public class Car {
     public void setModel(String brand){
         this.brand = brand;
         System.out.println(this.brand);
+        System.out.println(this.brand);
     }
 }
